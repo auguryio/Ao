@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+C:\Users\alecb\Downloads\mistps\.metadata\.plugins\org.eclipse.jdt.core
+3306244845.index
+2501520862.index
+113287701.index
+2453394996.index
+3427684350.index
+137624701.index
+1941132872.index
